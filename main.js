@@ -1,0 +1,1 @@
+url="https://teachablemachine.withgoogle.com/models/QM3mcMJ8m/model.json"
